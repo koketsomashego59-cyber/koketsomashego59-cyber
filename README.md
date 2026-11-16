@@ -42,5 +42,3 @@ I program using Java and MySQL for databases, I have a handful of projects that 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koketsomashego59-cyber&theme=tokyonight&hide_border=true" />
 </p>
 
-
-
