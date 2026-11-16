@@ -1,5 +1,5 @@
 # About-Nico
-<h1 align="center">Hi, I'm Nico Koketso Mashego 👋</h1>
+<h1 align="center">Hi, I'm Nico 👋</h1>
 <h3 align="center">Java Programmer & Systems Development Student</h3>
 
 <p align="center">
@@ -19,20 +19,16 @@
 ---
 
 ## 👨‍💻 About Me
-I'm Nico, a Java programmer based in Johannesburg, Benoni (Crystal Park), with a passion for learning something new every day[cite: 3]. I embrace the "Write Once, Run Anywhere" philosophy and continuously improve my problem-solving skills through side projects, GitHub repositories, and coding challenges[cite: 3].
+I program using Java and MySQL for databases, I have a handful of projects that are specifically built for enterprise development.
 
-* 🎓 **Education**: Diploma in Systems Development at Boston City Campus (2025–2027)[cite: 3]
-* 🌐 **Portfolio Website**: [nicoswebsite.netlify.app](https://nicoswebsite.netlify.app/)[cite: 3]
-* 🐙 **GitHub Profile**: [@koketsomashego59-cyber](https://github.com/koketsomashego59-cyber)[cite: 3]
-
+* 🎓 **Education**: Diploma in Systems Development at Boston City Campus (2025–2027)
 ---
 
 ## 🛠️ Skills & Tech Stack
 
 * **Programming Languages**: Java, SQL
-* **Frameworks & Tools**: Spring Boot, Android App Development, Docker, Git, GitHub, IntelliJ IDEA, Postman
-* **Computer Literacy**: Microsoft 365[cite: 3]
-* **Core Competencies**: Problem Solving, Clean Code Practices[cite: 3]
+* **Database: MySQL
+* **Frameworks & Tools**: Spring Boot, Android App Development, Docker, Git, GitHub, NetBeans, Postman
 
 ---
 
@@ -46,9 +42,5 @@ I'm Nico, a Java programmer based in Johannesburg, Benoni (Crystal Park), with a
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koketsomashego59-cyber&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
-## 🌐 Connect with Me
 
-* **Email**: koketsomashego59@gmail.com[cite: 3]
-* **WhatsApp**: 0815826676[cite: 3]
