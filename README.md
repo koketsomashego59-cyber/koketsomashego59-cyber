@@ -19,14 +19,14 @@
 ---
 
 ## 👨‍💻 About Me
-I program using Java and MySQL for databases, I have a handful of projects that are specifically built for enterprise development.
+I program using Java and MySQL for databases, I have a handful of projects that tailor to enterprise development.
 
 * 🎓 **Education**: Diploma in Systems Development at Boston City Campus (2025–2027)
 ---
 
 ## 🛠️ Skills & Tech Stack
 
-* **Programming Languages**: Java, SQL
+* **Programming Languages**: Java
 * **Database: MySQL
 * **Frameworks & Tools**: Spring Boot, Android App Development, Docker, Git, GitHub, NetBeans, Postman
 
