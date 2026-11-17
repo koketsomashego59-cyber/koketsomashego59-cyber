@@ -1,6 +1,6 @@
 # About-Nico
-<h1 align="center">Hi, I'm Nico 👋</h1>
-<h3 align="center">Java Programmer & Systems Development Student</h3>
+<h1 align="center">Hi, I'm Nico </h1>
+<h3 align="center">I am a Java developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=koketsomashego59-cyber&style=flat-square&color=blue" alt="Profile Views" />
