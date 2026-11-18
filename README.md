@@ -35,7 +35,7 @@ I program using Java and MySQL for databases, I have a handful of projects that 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=koketsomashego59-cyber&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-six-beta-13.vercel.app/api?username=koketsomashego59-cyber&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
