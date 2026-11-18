@@ -1,4 +1,4 @@
-# About-Nico
+
 <h1 align="center">Hi, I'm Nico </h1>
 <h3 align="center">I am a Java developer</h3>
 
@@ -18,13 +18,13 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 I program using Java and MySQL for databases, I have a handful of projects that tailor to enterprise development.
 
 * 🎓 **Education**: Diploma in Systems Development at Boston City Campus (2025–2027)
 ---
 
-## 🛠️ Skills & Tech Stack
+## Tech Stack
 
 * **Programming Languages**: Java
 * **Database: MySQL
