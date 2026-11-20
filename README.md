@@ -27,7 +27,7 @@ I program using Java and MySQL for databases, I have a handful of projects that 
 ## Tech Stack
 
 * **Programming Languages**: Java
-* **Database: MySQL
+* Database: MySQL
 * **Frameworks & Tools**: Spring Boot, Android App Development, Docker, Git, GitHub, NetBeans, Postman
 
 ---
